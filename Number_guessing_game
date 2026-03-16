@@ -1,0 +1,13 @@
+# 1. Set the secret number manually
+secret = 7
+
+print("I am thinking of a number between 1 and 10.")
+
+# 2. Get the player's guess
+guess = int(input("Enter your guess: "))
+
+# 3. Check if it is right or wrong
+if guess == secret:
+    print("You got it!")
+else:
+    print("Wrong! Try again next time.")
