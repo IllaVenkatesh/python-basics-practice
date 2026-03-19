@@ -11,3 +11,12 @@ if guess == secret:
     print("You got it!")
 else:
     print("Wrong! Try again next time.")
+
+### OUTPUT 
+I am thinking of a number between 1 and 10.
+Enter your guess: 5
+Wrong! Try again next time.
+
+I am thinking of a number between 1 and 10.
+Enter your guess: 7
+You got it! ###
