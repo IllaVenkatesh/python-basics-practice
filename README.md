@@ -1,71 +1,39 @@
-# Python Basics Practice
+# 🚀 Python Mastery & DSA Foundation
+**By Venkatesh Illa | Future Backend Engineer**
 
-This repository contains Python basic programs for beginners.
-It documents my progress while learning Python fundamentals and practicing problem-solving.
-
----
-
-## Topics Covered
-
-* Variables
-* Operators
-* Conditional Statements
-* Loops
-* Functions
-* Strings
-* Lists
-* Dictionaries
-* File Handling
+This repository is a curated collection of Python fundamentals and optimized algorithmic solutions. My goal is to bridge the gap between "code that works" and "code that scales" for high-performance product-based environments.
 
 ---
 
-## Programs Included
-
-* Factorial
-* Prime Number
-* Fibonacci Series
-* String Operations
-* List Operations
-* Simple Calculator Program
-* Number Guessing Game
-* Scholarship Eligibility Checker
+## 🛠️ Engineering Principles Applied
+Instead of just basic syntax, I focus on:
+*   **Time Complexity ($O(n)$):** Using HashMaps (Dictionaries) for constant-time lookups.
+*   **Clean Code:** Utilizing Pythonic features like `.get()`, list comprehensions, and modular functions.
+*   **Edge Case Handling:** Validating inputs for mathematical and logical stability.
 
 ---
 
-## Learning Progress
+## 📈 Technical Progress Tracker
 
-| Date       | Program                         | Description                                                            |
-| ---------- | ------------------------------- | ---------------------------------------------------------------------- |
-| 4 days ago | Scholarship Eligibility Checker | Program to check scholarship eligibility using marks and family income |
-| 2 days ago | Simple Calculator               | Basic calculator performing arithmetic operations                      |
-| Yesterday  | Number Guessing Game            | Game using Python `random` module                                      |
-| Ongoing    | Python Basics Practice          | Practicing Python fundamentals                                         |
+
+| Milestone | Project | Core Concept | Complexity |
+| :--- | :--- | :--- | :--- |
+| **Current** | **Frequency Counter** | Hash Maps / Dictionaries | $O(n)$ |
+| **New** | **Number Guessing** | Logic & `random` module | $O(1)$ |
+| **New** | **Scholarship Checker** | Conditional Logic / Booleans | $O(1)$ |
+| **New** | **Simple Calculator** | Modular Functional Design | $O(1)$ |
 
 ---
 
-## Repository Structure
-
-```
-python-basics-practice
+## 📁 Repository Architecture
+```text
+python-basics-practice/
 │
-├── scholarship_eligibility.py
-├── Simple Calculator Program
-├── Number_guessing_game
+├── 01_dsa_basics/             # Optimized Algorithm Practice
+│   └── frequency_counter.py    # O(n) implementation using .get()
+│
+├── 02_logic_building/         # Real-world logic puzzles
+│   ├── scholarship_checker.py  
+│   └── number_guessing_game.py
+│
 └── README.md
-```
-
----
-
-## Purpose
-
-* Practice Python programming fundamentals
-* Improve logical thinking and problem-solving
-* Track learning progress through GitHub commits
-
----
-
-## Author
-
-**Venkatesh Illa**
-B.Tech Computer Science Student
-Interested in Backend Development and Software Engineering
