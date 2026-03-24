@@ -8,6 +8,5 @@ for name in Names :
 
 print(count)
 
-### OUTPUT
-{'venky': 3, 'sailu': 1, 'ashish': 2}
-###
+# OUTPUT
+# {'venky': 3, 'sailu': 1, 'ashish': 2}
