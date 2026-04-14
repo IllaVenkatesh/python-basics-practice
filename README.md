@@ -111,6 +111,22 @@ Enter income: 200000
 
 Eligible for scholarship ✅
 ```
+Here are the four possible outcomes based on common scenarios:
+Scenario 1 (High Marks, Low Income):
+Input: Marks = 95, Income = 150,000
+Output: Eligible for FULL Scholorship
+Scenario 2 (High Marks, High Income):
+Input: Marks = 92, Income = 250,000
+Output: NOT eligible for FULL Scholorship -> HIGH income
+Scenario 3 (Good Marks, Moderate Income):
+Input: Marks = 80, Income = 250,000
+Output: Eligible for HALF scholarship
+Scenario 4 (Passing Marks):
+Input: Marks = 65, Income = 500,000
+Output: Eligible for Fee reduction
+Scenario 5 (Low Marks):
+Input: Marks = 50, Income = 100,000
+Output: NOt Eligible for scholarship
 
 ---
 
